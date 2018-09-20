@@ -1,0 +1,15 @@
+% Sites
+M1 M2
+
+% True multiplicity
+1 1 
+
+% Independent "disordered" species | ordered species
+en fs | opx
+
+% Atomic fractions
+Mg M1  1   0  1  
+Fe M1  0   1  0  
+Mg M2  1   0  0  
+Fe M2  0   1  1  
+

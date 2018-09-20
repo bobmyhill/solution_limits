@@ -1,0 +1,21 @@
+% Sites
+M3 M2 M1
+
+% True multiplicity
+1 2 6
+
+% Independent "disordered" species | ordered species
+nanal canal manal msnal fsnal | o1nal o2nal
+
+% Atomic fractions
+Na M3  1   0  0  0   0   0   0
+Ca M3  0   1  0  0   0   0   0
+Mg M3  0   0  1  1   0   0   0
+Fe M3  0   0  0  0   1   1   1
+Mg M2  1   1  1  1   0   1   0
+Fe M2  0   0  0  0   1   0   1
+Al M1  5/6 1  1  0   0   0   0
+Mg M1  0   0  0  1/2 0   1/2 1/2
+Fe M1  0   0  0  0   1/2 0   0
+Si M1  1/6 0  0  1/2 1/2 1/2 1/2
+

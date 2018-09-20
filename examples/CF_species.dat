@@ -1,0 +1,18 @@
+% Sites
+M3 M2
+
+% True multiplicity
+1 2
+
+% Independent "disordered" species | ordered species
+macf cacf nacf mscf fscf | oscf
+
+% Atomic fractions 
+Mg M3  1   0   0   1   0   0
+Fe M3  0   0   0   0   1   1 
+Ca M3  0   1   0   0   0   0
+Na M3  0   0   1   0   0   0
+Al M2  1   1   1/2 0   0   0
+Si M2  0   0   1/2 1/2 1/2 1/2
+Mg M2  0   0   0   1/2 0   1/2
+Fe M2  0   0   0   0   1/2 0

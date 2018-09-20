@@ -1,0 +1,19 @@
+% Sites
+X  Y
+
+% True multiplicity
+3  2
+
+% Independent "disordered" species | ordered species
+py alm gr nagt maj | gfm
+
+% Atomic fractions 
+Mg X  1   0   0   2/3 1   1
+Fe X  0   1   0   0   0   0
+Ca X  0   0   1   0   0   0
+Na X  0   0   0   1/3 0   0
+Al Y  1   1   1   1/2 0   0
+Si Y  0   0   0   1/2 1/2 1/2
+Mg Y  0   0   0   0   1/2 0
+Fe Y  0   0   0   0   0   1/2
+

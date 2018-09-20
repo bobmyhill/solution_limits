@@ -1,0 +1,24 @@
+% Sites
+A M1 M2 M4 T1
+
+% True multiplicity
+1 3 2 2 4
+
+% Independent "disordered" species | ordered species
+tr ged mpa ogl anth fanth omrb | ammo1 ammo2
+
+% Atomic fractions
+Vac A  1  1  0  1  1  1  1  1  1
+Na  A  0  0  1  0  0  0  0  0  0
+Mg M1  1  1  1  1  1  0  1  1  0
+Fe M1  0  0  0  0  0  1  0  0  1
+Mg M2  1  0 1/2 0  1  0  0  0  1
+Al M2  0  1 1/2 1  0  0  0  0  0
+Fe M2  0  0  0  0  0  1  0  1  0
+Fr M2  0  0  0  0  0  0  1  0  0
+Ca M4  1  0  0  0  0  0  0  0  0
+Mg M4  0  1  1  0  1  0  0  0  0 
+Na M4  0  0  0  1  0  0  1  0  0
+Fe M4  0  0  0  0  0  1  0  1  1 
+Si T1  1 1/2 1/2 1 1  1  1  1  1
+Al T1  0 1/2 1/2 0 0  0  0  0  0
