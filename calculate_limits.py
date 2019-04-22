@@ -36,8 +36,7 @@ atomic_site_multiplicities = Matrix([Matrix([multiplicities[sites.index(site)]
 site_fractions = Matrix([d[2:] for d in data[3:]])
 atom_site_matrix = site_fractions.T.multiply_elementwise(atomic_site_multiplicities)
 
-
-atom_matrix = Matrix([atom_site_matrix[:,atom_idxs].dot(ones(1, len(atom_idxs)))
+atom_matrix = Matrix([ones(1, len(atom_idxs))*atom_site_matrix[:,atom_idxs].T
                       for atom_idxs in atom_indices])
 
 n_atoms = len(unique_atoms)
